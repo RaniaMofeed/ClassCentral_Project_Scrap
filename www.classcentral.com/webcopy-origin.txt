@@ -1,0 +1,308 @@
+Uri: https://www.classcentral.com/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/apple-touch-icon.png
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/collection/ivy-league-moocs
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\collection\ivy-league-moocs.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/collection/top-free-online-courses
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\collection\top-free-online-courses.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/collections
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\collections.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/favicon-16x16.png
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/favicon-32x32.png
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-cyrillic-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-italic-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-greek-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-italic-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-greek.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-italic-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-latin-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-italic-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-latin.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-italic-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-vietnamese.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-italic-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-cyrillic-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-regular-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-cyrillic.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-regular-cyrillic.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-greek-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-regular-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-greek.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-regular-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-latin-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-regular-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-latin.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-regular-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-vietnamese.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-400-regular-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-600-semibold-cyrillic-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-600-semibold-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-600-semibold-cyrillic.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-600-semibold-cyrillic.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-600-semibold-greek-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-600-semibold-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-600-semibold-greek.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-600-semibold-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-600-semibold-latin-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-600-semibold-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-600-semibold-latin.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-600-semibold-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-600-semibold-vietnamese.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-600-semibold-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-700-bold-cyrillic-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-700-bold-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-700-bold-cyrillic.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-700-bold-cyrillic.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-700-bold-greek-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-700-bold-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-700-bold-greek.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-700-bold-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-700-bold-latin-ext.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-700-bold-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-700-bold-latin.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-700-bold-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-700-bold-vietnamese.woff2
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\fonts\source-sans-pro-hinted\source-sans-pro-700-bold-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/images/fade-gradient.png
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\images\fade-gradient.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/most-popular-courses
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\most-popular-courses.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/new-online-courses
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\new-online-courses.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/opensearch.xml
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\opensearch.xml
+Content Type: text/xml
+
+Uri: https://www.classcentral.com/rankings
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\rankings.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\100-most-popular-online-courses-2021\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-free-online-courses-2021/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\best-free-online-courses-2021\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-free-online-courses-2022/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\best-free-online-courses-2022\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/coursera-free-online-courses/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\coursera-free-online-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/free-certificates/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\free-certificates\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/free-google-certifications/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\free-google-certifications\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-courses-2022/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\most-popular-courses-2022\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-online-courses/
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\report\most-popular-online-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/safari-pinned-tab.svg
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.classcentral.com/site.webmanifest
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/starting-this-month
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\starting-this-month.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/ai
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\ai.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/algorithms-and-data-structures
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\algorithms-and-data-structures.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/art-and-design
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\art-and-design.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/business
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\business.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/computer-networking
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\computer-networking.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/cryptography
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\cryptography.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/cs
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\cs.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/data-science
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\data-science.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/deep-learning
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\deep-learning.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/devops
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\devops.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/education
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\education.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/engineering
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\engineering.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/health
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\health.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/humanities
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\humanities.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/information-technology
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\information-technology.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/infosec
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\infosec.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/internet-of-things
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\internet-of-things.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/machine-learning
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subject\machine-learning.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/maths
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\maths.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/personal-development
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\personal-development.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/programming-and-software-development
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\programming-and-software-development.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/quantum-computing
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\quantum-computing.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/science
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\science.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/social-sciences
+File Name: C:\Users\M bluelap\Desktop\www.classcentral.com\subject\social-sciences.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\subjects.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/universities
+File Name: C:\Users\M bluelap\Desktop\final\www.classcentral.com\universities.html
+Content Type: text/html
+
